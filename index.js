@@ -7,3 +7,4 @@ random
 mod = 8 / 4;
 mod
 
+Math.max(1, 5, 10, 15, 20);
